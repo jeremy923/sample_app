@@ -18,6 +18,8 @@ end
 
 gem 'jquery-rails', '2.0.2'
 
+gem 'minitest', '4.7.0'
+
 group :test do
   gem 'capybara', '1.1.2'
 end
